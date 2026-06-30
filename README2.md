@@ -27,11 +27,11 @@ This project analyzes match-level data for Hanwha Life Esports (HLE) across the 
 
 | File | Description |
 |---|---|
-| `group_10_final_notebook.ipynb` | Main analysis notebook |
-| `2024_LoL_esports.csv` | Raw 2024 season match data |
-| `2025_LoL_esports.csv` | Raw 2025 season match data |
+| `Final_up.py` | Main analysis notebook |
+| `2024_LoL_esports.csv` | Raw 2024 season match data |(not uploaded)
+| `2025_LoL_esports.csv` | Raw 2025 season match data |(not uploaded)
 | `HLE_Combined_With_SeriesID.csv` | Cleaned/combined dataset with series IDs |
-| `HLE_Descriptive_Stats.csv` | Year-by-year summary statistics |
+| `HLE_Descriptive_Stats.csv` | Year-by-year summary statistics |(not uploaded)
 
 ## Requirements
 
